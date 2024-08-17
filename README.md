@@ -1,3 +1,13 @@
+## Notice! If the debloat return fails or does not work correctly, Check if your file direction is correct. (Bonhomie)
+~~~
+echo Heavy Debloat Script by invinciblevenom
+echo =============================================
+echo Checking connected devices
+cd /d "Path to adb"
+adb devices
+Remove all # after adb devices
+~~~
+
 # OneUI 2.5 to 6.1 Debloat Script
 
 ## Update
